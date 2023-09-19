@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-template/static/css/main.0aa67dd3.css",
+    "main.js": "/react-template/static/js/main.a79734a1.js",
+    "static/js/787.65912ba8.chunk.js": "/react-template/static/js/787.65912ba8.chunk.js",
+    "static/media/gallery-III.png": "/react-template/static/media/gallery-III.8c956ad6e43ae8600372.png",
+    "static/media/gallery-V.png": "/react-template/static/media/gallery-V.e1ba234653f79985b61c.png",
+    "static/media/laptop-man.jpg": "/react-template/static/media/laptop-man.62ecd7492c710aeb5a1d.jpg",
+    "static/media/gallery-IV.png": "/react-template/static/media/gallery-IV.310b24a0999872df48f8.png",
+    "static/media/gallery-IX.png": "/react-template/static/media/gallery-IX.0b23063f2695a8298867.png",
+    "static/media/footer.jpg": "/react-template/static/media/footer.cfeb3623b45a35bbdce1.jpg",
+    "static/media/gallery-II.png": "/react-template/static/media/gallery-II.cd84732f8fdf7b085b80.png",
+    "static/media/laptop-hands.png": "/react-template/static/media/laptop-hands.2968b4ed84881122cbd0.png",
+    "static/media/circle-man.png": "/react-template/static/media/circle-man.ecce8cdba96de1e1f577.png",
+    "static/media/gallery-IIX.png": "/react-template/static/media/gallery-IIX.3de591e016ee5978bcea.png",
+    "static/media/gallery-VII.png": "/react-template/static/media/gallery-VII.c28f5e03c8c9c91070b4.png",
+    "static/media/gallery-I.png": "/react-template/static/media/gallery-I.577c5328ea3b8477e9ff.png",
+    "static/media/gallery-VI.png": "/react-template/static/media/gallery-VI.91c02e398a04a9cba178.png",
+    "index.html": "/react-template/index.html",
+    "main.0aa67dd3.css.map": "/react-template/static/css/main.0aa67dd3.css.map",
+    "main.a79734a1.js.map": "/react-template/static/js/main.a79734a1.js.map",
+    "787.65912ba8.chunk.js.map": "/react-template/static/js/787.65912ba8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aa67dd3.css",
+    "static/js/main.a79734a1.js"
+  ]
+}
