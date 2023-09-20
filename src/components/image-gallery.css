@@ -1,0 +1,14 @@
+.photos-container {
+    height: 150vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10%;
+}
+
+.adjust-image {
+    height: 50vh;
+    width: 33.3%;
+    object-fit: cover;
+    object-position: center;
+}

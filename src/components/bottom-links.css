@@ -1,0 +1,16 @@
+.bottom-links-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1.1rem;
+}
+.bottom-button {
+    height: 5vh;
+    width: 12%;
+    border: 1.5px solid midnightblue;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+.hero-container {
+    height: 50vh;
+    width: 100%;
+    background-color: #efeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-container {
+    height: 50vh;
+    width: 26%;
+    border: 8px solid white;
+    border-radius: 50%;
+    transform: translateY(20%);
+}
+
+.hero-container .circle-container img {
+    height: 50vh;
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 95%;
+}

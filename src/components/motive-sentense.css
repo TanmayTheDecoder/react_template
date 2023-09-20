@@ -1,0 +1,20 @@
+.motive-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+} 
+
+.padding-addition {
+    padding: 1%;
+}
+
+.motive-container p {
+    font-size: 4rem;
+}
+
+.motive-container span {
+    font-size: 2.3rem;
+    text-transform: uppercase;
+}
